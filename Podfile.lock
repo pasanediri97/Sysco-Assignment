@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.6.1)
+  - PullToRefreshKit (0.8.8)
+  - RappleProgressHUD (4.1)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - PullToRefreshKit
+  - RappleProgressHUD
+  - RxCocoa
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - PullToRefreshKit
+    - RappleProgressHUD
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  PullToRefreshKit: 7cc53e720e69f135cffa1a57784dfb534f0222ab
+  RappleProgressHUD: f29bc5dc5f9834c2caa9c2ae21ba11f3ff2b5a85
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+
+PODFILE CHECKSUM: 802b533a3601aede2973037dcc09217c7e2c435e
+
+COCOAPODS: 1.11.2
